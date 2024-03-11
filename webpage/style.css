@@ -301,7 +301,3 @@ footer{
     color: var(--primary-text-color);
     /* transition: 0.2s ease-out ; */
 }
-.hover-links:hover{
-    background-color:red !important ;
-    transition: ease-in;
-}
