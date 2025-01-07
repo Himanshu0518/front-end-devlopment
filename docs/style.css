@@ -35,7 +35,7 @@ a{
     font-size : 1rem ;
     font-weight :700 ;  
     text-align: center;
-    background-image: url("/assets/asset18.png");
+    background-image: url("../assets/asset18.png");
 }
 .text-container2{
     font-size : 1rem ;
@@ -213,7 +213,7 @@ section{
    position : relative ; 
    min-height : 300px ;
    background: black ;
-   background-image: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("/assets/image.png");
+   background-image: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("../assets/image.png");
    background-size : cover ;
 }
 
@@ -222,7 +222,7 @@ section{
     position : relative ; 
     min-height : 300px ;
     background: black ;
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("/assets/ex-card.jpg");
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("../assets/ex-card.jpg");
     background-size : cover ;
  }
  .ex-card3{
@@ -230,7 +230,7 @@ section{
     position : relative ; 
     min-height : 300px ;
     background: black ;
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("/assets/ex-card2.jpg");
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("../assets/ex-card2.jpg");
     background-size : cover ;
  }
  .ex-card4{
@@ -238,7 +238,7 @@ section{
     position : relative ; 
     min-height : 300px ;
     background: black ;
-    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("/assets/ex-card3.jpg");
+    background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url("../assets/ex-card3.jpg");
     background-size : cover ;
  }
 
